@@ -8,4 +8,4 @@ For any recomendation engine implementation we require a huge data, Also we have
 
 We are training the Word2Vec model here with the data we have,
 
-
+  
